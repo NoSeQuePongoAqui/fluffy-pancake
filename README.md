@@ -1,3 +1,3 @@
 # fluffy-pancake
-**esto es un cambio
-:D
+*esto es un cambio
+:D*
